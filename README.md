@@ -35,4 +35,4 @@
    
    기업 검색 결과
    
-   
+   ![image](https://user-images.githubusercontent.com/62055003/119252456-4dadb000-bbe7-11eb-875d-04163325e353.png)
