@@ -31,6 +31,7 @@
    
    기업 검색 모드 결정
    
+   ![image](https://user-images.githubusercontent.com/62055003/119252439-3bcc0d00-bbe7-11eb-8863-4d9729380839.png)
    
    기업 검색 결과
    
