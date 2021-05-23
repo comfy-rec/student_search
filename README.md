@@ -27,6 +27,7 @@
 
    초기화면
    
+   ![image](https://user-images.githubusercontent.com/62055003/119252389-e98aec00-bbe6-11eb-9b3a-9f558434feef.png)
    
    기업 검색 모드 결정
    
