@@ -1,4 +1,4 @@
-# Student_search_project
+# student_search_project
 
 ## 1. 목적
 
